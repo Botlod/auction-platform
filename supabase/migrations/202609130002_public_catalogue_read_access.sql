@@ -1,0 +1,1 @@
+grant select on public.profiles, public.items, public.auctions, public.bids to anon;
