@@ -1,0 +1,1 @@
+grant execute on function public.process_auction_lifecycle() to anon, authenticated;
